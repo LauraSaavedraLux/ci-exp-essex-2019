@@ -1,0 +1,21 @@
+Exercise 1. 
+
+2.1
+(a)	The notation denotes the potential outcome if the ith subject were not treated.
+(b)	The first notation denotes the untreated potential outcome of the ith subject, who would be treated under a certain hypothetical condition. In contrast the second notation denotes the untreated potential outcome for the ith subject that actually receives treatment.
+(c)	The first notation denotes the potential outcome for the ith subject if it were not treated. The second denotes to the untreated potential outcome for the ith subject who would not be treated under some hypothetical allocation of treatments. 
+(d)	The first notation denotes the untreated potential outcome for the ith subject, who would be treated under some hypothetical allocation of treatments. The second implies the untreated potential outcome for the ith subject, who would not be treated under some hypothetical allocation of treatments.
+(e)	The first notation denotes the expected value of the untreated potential outcome for a randomly selected subject. The second denotes the expected value of the untreated potential outcome for a randomly selected subject, who would be treated under some hypothetical allocation of treatments. 
+(f)	Random assignment creates two groups that in theory are identical prior to treatment because every subject had the same probability of being selected into the treatment or control group. Thus, potential outcomes are independent of the treatments that subjects receive and consequently the potential outcome for the treatment and control group are the same. Therefore, the selection bias term is 0. 
+
+2.10
+(a)	Informing the treated students of the experiment may violate the excludability assumption because it is no longer clear whether the treatment alone caused increased interest or whether knowing that you are part of the experiment made you read the newspaper more often than if you would have not been treated, or vice versa. As a consequence Yi(1,d) does no longer equal Yi(0,d) because observations in the treatment group were influenced by another external variable that is not the treatment itself. 
+(b)	If subjects from the treatment group take their newspaper to the cafeteria, they may influence other subjects from the control group to read the newspaper as well. They may be friends and are influenced by their friends’ behavior or the treated subject may leave the newspaper lying around and someone from the control group picks it up etc. The interest in politics is no longer independent of each other between treated and control group. A comparison between outcomes will now underestimate the ATE. 
+
+2.12
+(a)	It would be unrealistic to assume that the tendency of a person/prisoner to read more than three hours a day is randomly assigned. Therefore, we cannot compare the potential number of violent encounters across these groups and draw the conclusion of what effect reading has on violent behavior. 
+(b)	The excludability assumption may be violated because the subjects are forced to read in specially designated places. Thus the administration of the treatment may actually cause them to be more violent because they are required to do something they may not like to do. Also, I am not sure if I understood the text correctly, but the comparison would take place between 10 treated and the rest of the prisoners? That seems a bit asymmetrical. 
+(c)	The assumption of non-interference indicates that the value of the potential outcome depends only on whether or not the subject is assigned treatment. The subjects in the treatment group may come in contact because they interact with the control group. Thus, they may experience violent encounters through outside occurrences, e.g., a prisoner in the control group picks a fight with them. 
+(d)	If all prisoners are treated, you cannot compare the effect of the treatment because no one was in the control group. 
+
+
